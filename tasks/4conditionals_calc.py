@@ -20,7 +20,7 @@ def devide():
     print(a/b)
 
 while on:
-    operation = input("Please press: +, -, *, /, or Q: ")
+    operation = input("Please press: +, -, *, /,  or Q: ")
     if operation == "+":
         add()
     elif operation == "-":
